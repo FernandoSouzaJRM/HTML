@@ -1,0 +1,34 @@
+*{background-color: rgb(61, 61, 61);}
+
+h1{
+    text-align:center;
+    color: rgb(243, 243, 243);
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+h2{
+    text-align:center;
+    color: rgb(243, 243, 243);
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+.formulario{
+    text-decoration: solid;
+}
+
+.logoB{
+    text-align: center;
+}
+
+.direitos {
+	color: #FFFFFF;
+	font-size: 15px;
+	margin: 20px 0 0;
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+	p {
+                   font-size: 25px;
+	}
+}
